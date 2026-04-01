@@ -18,4 +18,9 @@ It was released in April 2018.
 
 ![Nokia 6.1](https://cdn2.gsmarena.com/vv/pics/nokia/nokia-6-2018-1.jpg)
 
-**Copyright 2019 - The LineageOS Project**
+```
+#
+# SPDX-FileCopyrightText: The LineageOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+```
